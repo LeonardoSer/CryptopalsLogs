@@ -2,6 +2,8 @@
 
 Welcome to CryptoPalsLogs, a comprehensive repository where I share my journey, notes, and writeups on tackling the cryptographic challenges over at [Cryptopals](https://cryptopals.com/).
 
+# About the cryptopals crypto challenges
+
 [Cryptopals](https://cryptopals.com/) offers a collection of cryptographic challenges designed to teach the practical aspects of cryptography, providing a hands-on approach to learning the ins and outs of modern cryptography.
 
 <p align="center">
