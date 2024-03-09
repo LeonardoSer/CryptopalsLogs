@@ -4,13 +4,15 @@ Welcome to CryptoPalsLogs, a comprehensive repository where I share my journey, 
 
 [Cryptopals](https://cryptopals.com/) offers a collection of cryptographic challenges designed to teach the practical aspects of cryptography, providing a hands-on approach to learning the ins and outs of modern cryptography.
 
+<p align="center">
+  <img src="https://github.com/LeonardoSer/CryptopalsLogs/assets/80627086/8d5dd882-ce19-4f3a-97be-d6a26fcadd60" alt="Cryptopals">
+</p>
+
 ## Repository Structure
 
 This repository is organized by sets and challenges as found on Cryptopals. Each challenge has its own writeup in Markdown format, detailing the approach, solution, and key learnings.
 
-<p align="center">
-  <img src="https://github.com/LeonardoSer/CryptopalsLogs/assets/80627086/8d5dd882-ce19-4f3a-97be-d6a26fcadd60" alt="Cryptopals">
-</p>
+
 
 ## Disclaimer
 
